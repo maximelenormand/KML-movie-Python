@@ -35,7 +35,7 @@ directly into the Python script kmlMovie.py.
    6. rgbcolorlink: Define the links color with an rgb code
    7. output_file: Name of the output file
 
-Copyright 2015 Maxime Lenormand. All rights reserved. Code under License GPLv3.
+Author: Maxime Lenormand (2015)
 """
 
 # ******************************************** IMPORTS *******************************************************
