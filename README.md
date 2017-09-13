@@ -1,10 +1,6 @@
 Plotting trajectories over time on Google Earth with Python
 ===================================================================================
 
-Copyright 2015 Maxime Lenormand. All rights reserved. Code under License GPLv3.
-______________________________________________________________________________________
-
-
 This python script transform one or several temporal trajectories composed of a set of nodes and links into a KML file plotting 
 these trajectories over time on Google Earth. More specifically, the script takes as input two *csv* files with column names, **the value separator 
 is a semicolon ";"**. 
