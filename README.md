@@ -28,7 +28,7 @@ directly into the Python script kmlMovie.py.
   6. ***rgbcolorlink:*** Define the links color with an rgb code
   7. ***output_file:*** Name of the output file
 
-The code is not very complicated and you can test it directly to plot three temporal trajectories in Madrid. If you want more details about this script feel free to visit [this post](http://www.maximelenormand.com/Blog/kml-movie-python). 
+The code is not very complicated and you can test it directly to plot three temporal trajectories in Madrid. 
 
 Enjoy!
 
