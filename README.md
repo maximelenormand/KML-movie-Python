@@ -33,7 +33,7 @@ The code is not very complicated and you can test it directly to plot three temp
 Enjoy!
 
 If you need help, find a bug, want to give me advice or feedback, please contact me!
-You can reach me at maxime.lenormand[at]irstea.fr
+You can reach me at maxime.lenormand[at]inrae.fr
 
 
   
