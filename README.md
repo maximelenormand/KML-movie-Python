@@ -5,7 +5,7 @@ This python script transform one or several temporal trajectories composed of a 
 these trajectories over time on Google Earth. More specifically, the script takes as input two *csv* files with column names, **the value separator 
 is a semicolon ";"**. 
 
-* ***Nodes.csv*** is composed of 3 columns providing geographical information abbout the nodes:
+* ***Nodes.csv*** is composed of 3 columns providing geographical information about the nodes:
   1. Node ID
   2. Longitude of the node
   3. Latitude of the node
