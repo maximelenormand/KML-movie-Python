@@ -43,8 +43,8 @@ script.
   
 ## Execution
 
-You can run the scripts using the command to plot three temporal trajectories 
-in Madrid.
+You can run the script using the command below to plot three temporal 
+trajectories in Madrid.
 
 **python kmlMovies.py**
 
