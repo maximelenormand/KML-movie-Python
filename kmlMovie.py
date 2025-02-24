@@ -1,5 +1,5 @@
 """
-Plotting trajectories over time on Google Earth with Python
+Plotting trajectories over time on Google Earth
 
 This python script transforms one or several temporal trajectories composed of a set of nodes and links 
 into a KML file plotting these trajectories over time on Google Earth.
